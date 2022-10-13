@@ -1,5 +1,5 @@
 {
-    "MarkdownPaste.path": "${fileDirname}/assets/images",
+    "MarkdownPaste.path": "${fileDirname}/assets/${fileBasenameNoExtension}/images",
     "MarkdownPaste.enableImgTag": true,
     //<filepath>?width,height
 }
