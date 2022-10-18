@@ -36,3 +36,41 @@ movement should be easy to use, but hard to master.
 Instead of punishing players who run out of lives, games can instead **reward** the players who manage to complete a sequence without having to retry too often.
 *Crash Bandicoot 4* rewards a gem if the entire level is finished with fewer than three retries.
 *Ori and the Blind Forest* checkpoints can be made by spending a certain type of currency.
+
+### [Why Does Celeste Feel So Good to Play?](https://www.youtube.com/watch?v=yorTG9at90g&list=PLc38fcMFcV_t66OnpNFFXKIqsQRPVHq6U&index=7) 🧨
+
+speed graph intro
+![](assets/GMTK%20notes/images/intro_movement.png)  
+
+celeste is snappy
+![](assets/GMTK%20notes/images/celeste_movemtn.png)  
+
+good top speed
+![](assets/GMTK%20notes/images/speed.png)  
+
+shovel knight jump height
+![](assets/GMTK%20notes/images/shovel_knight.png)  
+
+super meat boy jump height
+![](assets/GMTK%20notes/images/super_meat_boy.png) 
+
+Celeste jump height
+![](assets/GMTK%20notes/images/celeste_jump.png)  
+
+Jump curve of celeste
+![](assets/GMTK%20notes/images/celeste_jump_height.png)  
+
+### [Breaking Down the Best World in Rayman Legends](https://www.youtube.com/watch?v=Ea6XJRqHUU4&list=PLc38fcMFcV_t66OnpNFFXKIqsQRPVHq6U&index=9) 🧨
+
+variation of sentry
+![](assets/GMTK%20notes/images/rayman_sentry.png)  
+
+different level design concepts
+![](assets/GMTK%20notes/images/crusher.png)  
+
+jelly fish
+![](assets/GMTK%20notes/images/jelly_fisht.png)  
+
+worm in levels
+![](assets/GMTK%20notes/images/worm.png)  
+
